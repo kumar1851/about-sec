@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	margin:auto;
+    width:80%
+}
+.row{
+    display:flex;
+}
+.col img{
+	width:100%;
+}
+.col{
+	width:50%;
+	margin-top:20px;
+	
+}
+.col-2{
+	margin-top:30px;
+}
+.card{
+	display:flex;
+	padding:10px;
+	
+}
+p{
+	font-size:18px;
+}
+.icon i{
+	font-size:30px;
+	color:#e64a19;
+	padding:20px;
+}
+.col-1{
+	padding:5px;
+}
